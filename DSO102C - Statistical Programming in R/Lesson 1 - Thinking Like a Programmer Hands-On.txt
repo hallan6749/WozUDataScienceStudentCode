@@ -1,0 +1,9 @@
+HandsOnL01 
+Alison Schnoes
+For this Hands-On, in the requirements you are given a problem statement. With this problem statement you will need to write out the steps needed to accomplish the task. Save your work in a text document named HandsOnL01 and be sure to upload your zipped file when you are finished. Although this hands on will not be graded, the best way to become a data scientist is to practice!
+You have a bag filled with jelly beans of three different colors: pink, green, and yellow and 3 cups that cannot be moved arranged in a line in front of you. The end result should be that all the jelly beans have been removed from the bag and placed into cups. Each cup should only contain 1 color. The jelly beans should be placed into the cups so that the pile that is the smallest is on the left, and the pile that is the largest is on the right. Jelly beans cannot be placed anywhere except in the bag or in a cup.
+Step 1: Sort different jelly beans from the bag into each cup, cup 1 on the left is pink, cup 2 is in the middle is green, and cup 3 on the right is yellow.
+Step 2: count the jelly beans from cup 1 pink, back into the bag, write down the total
+Step 3: count the jelly beans from cup 2 green, back into the bag, write down the total
+Step 4: count the jelly beans from cup 3 yellow, back into the bag, write down the total
+Step 5: compare the totals and sort from least to greatest, put the jelly beans from the least into cup 1, put the jelly beans from the greatest into cup 3, put the jelly beans from the color in the middle into cup 2
