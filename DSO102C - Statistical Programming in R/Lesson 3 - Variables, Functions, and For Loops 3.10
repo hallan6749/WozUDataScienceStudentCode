@@ -1,0 +1,8 @@
+IceDiam = c(0.96, 1.51, 2.17, 3.85, 4.45, 6.02)
+
+WtoD = function(Ice){((2/2.54) * ((Ice) /(0.92 * (4/3) * pi))^ (1/3))}
+
+for (Ice in IceDiam) {
+  circ = WtoD (Ice)
+  cat("for an Ice with a", Ice, "weight=", circ, "diameter \n")
+}
