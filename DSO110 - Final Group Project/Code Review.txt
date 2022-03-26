@@ -1,0 +1,7 @@
+Code Review
+Please submit all project documents related to your efforts this week, including all code used. Your code will be graded on the following four criteria:
+
+Does your code run smoothly from the top to the bottom of the file?
+Do you have comments explaining what you're doing before you do it?
+Are you working on the appropriate weekly task (i.e. data wrangling)?
+Do you have comments explaining your interpretation of the code results (if applicable) after the code?
